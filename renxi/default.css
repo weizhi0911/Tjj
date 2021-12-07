@@ -13,3 +13,5 @@ a {color:#000;font-size:14px;}
 .hand{cursor:pointer;}
 .say{margin-left:5px;}
 .space{margin-right:150px;}
+.img-box{ column-count: 3;column-gap: 0;}
+.img-item{width: 100%;}
